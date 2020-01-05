@@ -448,6 +448,12 @@ const INITIAL_TOKENS_CONTEXT = {
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0x4e395304655F0796bc3bc63709DB72173b9DdF98'
     },
+    '0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca': {
+      [NAME]: 'Simple Token (OST)',
+      [SYMBOL]: 'ST',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0x700520b1e2ccc5bf5fa89a5f7b8fd9beba3f04b0'
+    },
     '0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC': {
       [NAME]: 'StorjToken',
       [SYMBOL]: 'STORJ',
